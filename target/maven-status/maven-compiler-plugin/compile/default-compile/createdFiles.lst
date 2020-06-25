@@ -1,0 +1,7 @@
+com/telecom/stc/StcApplication.class
+com/telecom/stc/model/User.class
+com/telecom/stc/model/GetUserResponse.class
+com/telecom/stc/model/package-info.class
+com/telecom/stc/config/SoapConfig.class
+com/telecom/stc/model/ObjectFactory.class
+com/telecom/stc/model/GetUserRequest.class
